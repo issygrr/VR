@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1294427595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8696f19de732694c4ffbdde6eee3e5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f63e3cb69e91efa9da6d4521fd851431
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/FOB_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Bed_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/DoorEntry_L_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Radiator_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Toilet_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Door_Balkon_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Door_Roof_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_5.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Door_Room_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Chair_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_2.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_2.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/WoodPart.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Lamp_2.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/DoorEntry_R_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Fridge_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_1_BathRoom.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Shelves_1.fbx
+- Assets/ExampleAssets/Models/XRControllerRight.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Door_Room_Entry_LOD.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_4.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_3.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Oven_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_1_BathRoom_Sink.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Table_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_4.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Lamp_1.fbx
+- Assets/ExampleAssets/Models/XRControllerLeft.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_1.fbx
+Dependencies:
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0

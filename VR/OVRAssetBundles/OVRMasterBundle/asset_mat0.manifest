@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 693538017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 163c3d6b2baeb1b289296932fd859e2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Materials/FOB_1.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Material/FOB_Opaque.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Material/FOB_Transparent.mat
+- Assets/ExampleAssets/Materials/Controller.mat
+- Assets/ExampleAssets/Materials/Skybox Light.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Materials/FOB_1.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Materials/Material.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Materials/Glass.mat
+- Assets/ExampleAssets/Materials/Grid.mat
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Materials/body.mat
+Dependencies:
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0

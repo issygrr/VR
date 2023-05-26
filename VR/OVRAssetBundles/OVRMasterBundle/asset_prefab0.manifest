@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 4166533645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2e3f9f1a9e0f9f33b07fd1bb38967f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22596e5e5ca8b93f00756d882c0db57b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d07ab073a44b49a1e234fb56ae132, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd6de038802b5c743bdd6aec2153b03e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExampleAssets/Prefabs/XRControllerLeft.prefab
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Prefab/Building/FOB_LOD.prefab
+- Assets/ExampleAssets/Prefabs/XRControllerRight.prefab
+Dependencies:
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
