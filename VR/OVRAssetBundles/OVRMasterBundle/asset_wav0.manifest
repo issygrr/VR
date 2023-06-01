@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 75980315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ba0dbe06728bf6af65eee257c2e6fd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Audio/Button Pop.wav
+Dependencies: []

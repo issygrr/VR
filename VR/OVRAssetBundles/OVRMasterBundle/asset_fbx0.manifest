@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1294427595
+CRC: 724516617
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8696f19de732694c4ffbdde6eee3e5d
+    Hash: 41e3e0cb1ed9798c550585bb1b52d438
   TypeTreeHash:
     serializedVersion: 2
     Hash: f63e3cb69e91efa9da6d4521fd851431
@@ -30,8 +30,8 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_1.fbx
-- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/FOB_LOD.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Bed_1.fbx
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/FOB_LOD.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/DoorEntry_L_LOD.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Radiator_1.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Toilet_1.fbx
@@ -55,10 +55,10 @@ Assets:
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Oven_1.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_1_BathRoom_Sink.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Table_1.fbx
-- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_4.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Lamp_1.fbx
-- Assets/ExampleAssets/Models/XRControllerLeft.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Cabinet_1.fbx
+- Assets/ExampleAssets/Models/XRControllerLeft.fbx
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Models/Primitive_Pyramid.fbx
 Dependencies:
 - H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0

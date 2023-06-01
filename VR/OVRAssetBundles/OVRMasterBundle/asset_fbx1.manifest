@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 88600681
+CRC: 1724315465
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1eddf611aac01103f8a285b485746692
+    Hash: d57f0f4429defd57af97f89ae597a05f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7428a5560c5923e1a894e3e2445b8fc0
@@ -27,6 +27,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_4.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/WoodPartTop.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_3.fbx
 Dependencies:

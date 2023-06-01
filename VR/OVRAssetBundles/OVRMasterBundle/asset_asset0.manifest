@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1036258930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad7b0ea1972d1e97c4bb317dc2d1ca22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 881e6830733975da9bbb8bbd0f3c6f6b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b5d80f45fb5f4418a5e84a476e517628, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.XR.CoreUtils
+  ClassName: Unity.XR.CoreUtils.Datums.AnimationCurveDatumProperty
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Theme.AffordanceThemeData`1[UnityEngine.Color]
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.AffordanceSystem.Theme.Primitives.ColorAffordanceTheme
+Assets:
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/AffordanceThemes/InteractionColorAffordanceTheme.asset
+Dependencies: []
