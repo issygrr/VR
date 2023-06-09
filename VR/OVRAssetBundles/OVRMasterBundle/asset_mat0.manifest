@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 693538017
+CRC: 3235921407
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 163c3d6b2baeb1b289296932fd859e2f
+    Hash: b596726e8c27aa07e95a589dc197cb95
   TypeTreeHash:
     serializedVersion: 2
     Hash: 82515b3694a1e5beae009c48c1198c34
@@ -21,6 +21,7 @@ Assets:
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Material/FOB_Opaque.mat
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Material/FOB_Transparent.mat
 - Assets/ExampleAssets/Materials/Controller.mat
+- Assets/Pickupmat.mat
 - Assets/ExampleAssets/Materials/Skybox Light.mat
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Materials/FOB_1.mat
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/Materials/Material.mat

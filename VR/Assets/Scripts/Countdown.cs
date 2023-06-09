@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Countdown : MonoBehaviour
 {
@@ -9,15 +10,19 @@ public class Countdown : MonoBehaviour
     private float currentTime;
     public bool timeStart = false;
     public Text countDowntText;
+    public GameObject gameOverText;
+    public GameObject lightObj;
     void Start()
     {
+        gameOverText.SetActive(false);
+        lightObj.SetActive(true);
         currentTime = totalTime;
     }
 
     // Update is called once per frame
     void Update()
     {
-        StartTimer();
+        //StartTimer();
     }
 
     public void StartTimer()
@@ -26,7 +31,7 @@ public class Countdown : MonoBehaviour
         {
             if (currentTime <= 0f)
             {
-                // enemy attack
+                Death();
 
                 enabled = false;
             }
@@ -41,5 +46,20 @@ public class Countdown : MonoBehaviour
     public void TimeStarter()
     {
         timeStart = true;
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
+    }
+
+    public void Death()
+    {
+        gameOverText.SetActive(true);
+        lightObj.SetActive(false);
+    }
+    public void Restart()
+    {
+        SceneManager.LoadScene(0);
     }
 }

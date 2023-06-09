@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1533930250
+CRC: 848645462
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -9,30 +9,30 @@ AssetBundleManifest:
       Name: scene_samplescene
       Dependencies:
         Dependency_0: asset_mat0
-        Dependency_1: asset_fbx0
-        Dependency_2: asset_fbx1
-        Dependency_3: asset_prefab0
+        Dependency_1: asset_prefab0
+        Dependency_2: asset_fbx0
+        Dependency_3: asset_fbx1
         Dependency_4: asset_inputactions0
     Info_2:
       Name: asset_mat0
       Dependencies:
         Dependency_0: asset_png0
     Info_3:
-      Name: asset_fbx0
-      Dependencies:
-        Dependency_0: asset_mat0
-        Dependency_1: asset_png0
-    Info_4:
-      Name: asset_fbx1
-      Dependencies:
-        Dependency_0: asset_mat0
-        Dependency_1: asset_png0
-    Info_5:
       Name: asset_prefab0
       Dependencies:
         Dependency_0: asset_mat0
         Dependency_1: asset_fbx0
         Dependency_2: asset_asset0
+    Info_4:
+      Name: asset_fbx0
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_png0
+    Info_5:
+      Name: asset_fbx1
+      Dependencies:
+        Dependency_0: asset_mat0
+        Dependency_1: asset_png0
     Info_6:
       Name: asset_inputactions0
       Dependencies: {}

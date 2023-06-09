@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3577916622
+CRC: 135834335
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 835ac6420aa12d4fdcb54082c8b8269a
+    Hash: 2fc66218b2e8743dc23e5273edfe7b29
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4a17371260c2bab6b4d0bd666c471621
+    Hash: 0e82d7254bea257fc05d3174ceba75ad
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,6 +24,8 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 54
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
@@ -50,6 +52,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f86d13fca2ec430d870c0f7765ad0dde, type: 3}
@@ -60,6 +64,12 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 138
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -121,9 +131,11 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interaction
   Affordance.prefab
+- Assets/Pickup.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interactable
   Simple Cube.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/UI_2D/TextButton.prefab
+- Assets/Handle.prefab
 - Assets/ExampleAssets/Prefabs/XRControllerLeft.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/UI_2D/ModalSingleButton.prefab
 - Assets/ExampleAssets/Prefabs/XRControllerRight.prefab
