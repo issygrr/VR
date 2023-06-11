@@ -20,9 +20,9 @@ public class Countdown : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    public void Update()
     {
-        //StartTimer();
+        StartTimer();
     }
 
     public void StartTimer()

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2687811346
+CRC: 3358978859
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed04979f65a09e20a7df3a58c3adb083
+    Hash: db156054ef177d1e1a7f7c41d575b2e6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 93f001935d3d65aecbbce5169929cac6
+    Hash: 8445577d3b8fbd83ede652a5880ea068
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,8 +37,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
@@ -60,13 +58,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b5d80f45fb5f4418a5e84a476e517628, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 132de76514e000c4791582db2c0dd080, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e0cb9aa70a22847b5925ee5f067c10a9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e7987a4f9b79e754c951908fed65bc14, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4f5ad1e344e1edf47beee381f64a1652, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07b3638c2f5db5b479ff24c2859713d4, type: 3}
 - Class: 114
@@ -75,6 +73,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: bd6de038802b5c743bdd6aec2153b03e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6803edce0201f574f923fd9d10e5b30a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3834d1513b23d4c4692f3e4357989ce4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0bff1219d875d344eb42b37ac8eb5658, type: 3}
 - Class: 114
@@ -155,8 +155,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/SampleScene.unity
 Dependencies:
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx1
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_inputactions0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_inputactions0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
