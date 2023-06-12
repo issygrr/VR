@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3358978859
+CRC: 3874828695
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: db156054ef177d1e1a7f7c41d575b2e6
+    Hash: 0ba5e7ca3a38aa4e5af29f40d0e7d77a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8445577d3b8fbd83ede652a5880ea068
@@ -155,7 +155,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/SampleScene.unity
 Dependencies:
-- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_inputactions0
-- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/Issy/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/Issy/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/Issy/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_prefab0

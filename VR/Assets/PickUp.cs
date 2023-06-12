@@ -5,7 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class PickUp : XRGrabInteractable
 {
-    public int points = 10; //points awarded for picking up object
+    public int points = 1; //points awarded for picking up object
     private bool isPickedUp = false;
 
     public void Onselected()
@@ -57,4 +57,6 @@ public class PickUp : XRGrabInteractable
             rb.useGravity = true;
         }
     }
+
+
 }
