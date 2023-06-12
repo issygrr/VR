@@ -3,7 +3,7 @@ CRC: 1724315465
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d57f0f4429defd57af97f89ae597a05f
+    Hash: 7ee3ad40790dbddc7e3e0a053bb3068e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7428a5560c5923e1a894e3e2445b8fc0
@@ -31,5 +31,5 @@ Assets:
 - Assets/FreeOpenBuilding_1.1.2/FOB_Props/Mesh/WoodPartTop.fbx
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Window_3.fbx
 Dependencies:
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0

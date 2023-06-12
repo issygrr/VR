@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 135834335
+CRC: 4105297163
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2fc66218b2e8743dc23e5273edfe7b29
+    Hash: a1c12d059dd22166a9bd56dd77a8db30
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0e82d7254bea257fc05d3174ceba75ad
+    Hash: a3be969ca45f0f03e5f62c01d2544779
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,7 +27,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 54
   Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
 - Class: 64
+  Script: {instanceID: 0}
+- Class: 65
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
@@ -42,13 +46,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b5d80f45fb5f4418a5e84a476e517628, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 132de76514e000c4791582db2c0dd080, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07b3638c2f5db5b479ff24c2859713d4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 49e0a5b5ff5540f5b14dd29d46faec22, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: bd6de038802b5c743bdd6aec2153b03e, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 8a35f6cfbfba9b548aaa00d52cfe8a50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 357d07ab073a44b49a1e234fb56ae132, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
@@ -131,15 +141,25 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interaction
   Affordance.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Cabinet_5 (1).prefab
 - Assets/Pickup.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Cabinet_2.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interactable
   Simple Cube.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/UI_2D/TextButton.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interactable
+  Kinematic Torus.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interactable
+  Velocity Tracked Wedge.prefab
 - Assets/Handle.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Interactables/Interactable
+  Instant Pyramid.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Cabinet_3.prefab
+- Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/Cabinet_5.prefab
 - Assets/ExampleAssets/Prefabs/XRControllerLeft.prefab
 - Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Prefabs/UI_2D/ModalSingleButton.prefab
 - Assets/ExampleAssets/Prefabs/XRControllerRight.prefab
 Dependencies:
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_mat0

@@ -3,7 +3,7 @@ CRC: 3235921407
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b596726e8c27aa07e95a589dc197cb95
+    Hash: 2d1c5878a1da180874d996c7db11c1fd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 82515b3694a1e5beae009c48c1198c34
@@ -29,4 +29,4 @@ Assets:
 - Assets/ExampleAssets/Materials/Grid.mat
 - Assets/FreeOpenBuilding_1.1.2/FOB_1/Mesh/Materials/body.mat
 Dependencies:
-- H:/Documents/GitHub/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Issy/Documents/GitHub/Vrstuff/VR/VR/OVRAssetBundles/OVRMasterBundle/asset_png0
